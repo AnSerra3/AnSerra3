@@ -5,7 +5,9 @@ I'm a software engeneering student and my passion is the machine learning world,
 Everyday, I'm improving my skills and trying to become a better version of me.  
 <br>
 
-![Progetto senza titolo](https://user-images.githubusercontent.com/90986224/225650536-4a8db3cb-4337-419e-a57e-d68be10a9837.png)
+
+![Progetto senza titolo (2)](https://user-images.githubusercontent.com/90986224/225651261-56314269-7dae-4768-8594-551652fb18f1.png)
+
 
 
 **🧩** My Skills: HTML5, CSS3, C, Python and its famous machine learning libraries.
