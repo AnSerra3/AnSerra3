@@ -11,6 +11,6 @@ Everyday, I'm improving my skills and trying to become a better version of me.
 
 <br>
 
-**🧩** My Skills: HTML5, CSS3, C, Assembly, SQL, Java, Python, Pandas, Matplotlib, Flask, Django.
+**🧩** My Skills: Python, Pandas, Matplotlib, Flask, Django, SQL, Java, Tensorflow, HTML5, CSS3, C, Assembly.
 
 **💻** My Tools: JetBrains' Ides, Visual Studio Code and Git.
